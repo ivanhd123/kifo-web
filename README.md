@@ -1,2 +1,2 @@
-# kifo-web
+# kofi-web
 website tentang coffee
